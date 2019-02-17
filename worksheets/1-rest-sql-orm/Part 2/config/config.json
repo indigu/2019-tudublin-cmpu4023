@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "matto",
+    "password": "123456",
+    "database": "pgguide",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "matto",
+    "password": "123456",
+    "database": "pgguide",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "matto",
+    "password": "123456",
+    "database": "pgguide",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
