@@ -1,9 +1,0 @@
-{ 
-    "host":"localhost",
-    "port": "5432",
-    "database": "lab2",
-    "user": "matto",
-    "password": "123456",
-    "poolSize": "10",
-    "secret_key": "1234"
-}
